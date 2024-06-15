@@ -37,4 +37,11 @@ Task:
 ## Key Concepts
 - Class
     - A blueprint for creating objects.
+    - Defines a set of attributes or methods that the created objects (instances) will have
+    - Eg. Blueprint provided while bulding a house, defining what an animal is
+
 - Object
+    - An instance of a class.
+    - It represents a specific entity with attributes (data) and methods (functions) defined by class.
+    - Eg. A built house with many features (as functions)
+    
